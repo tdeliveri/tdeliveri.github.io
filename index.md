@@ -14,7 +14,7 @@
 <body>
 	<main>
 		<div class="intro">Hello, tdeliveri!</div>
-		<div class="tagline">All-Star Dev | Code Fanatic | Linux Hacker | Bleh</div>
+		<div class="tagline">android Developer | backend Developer | Java Code | Ecommers</div>
 		<!-- Find your icons from here - https://fontawesome.com/icons?d=gallery&s=brands -->
 		<div class="icons-social">
 			<a target="_blank" href="https://github.com/tdeliveri"><i class="fab fa-github"></i></a>
