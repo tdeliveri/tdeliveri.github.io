@@ -1,0 +1,15 @@
+{category: 
+    {
+   cat_name:"dress",
+   cat_id:1
+   sub_cat: [
+          {
+        sub_cat_name: "white dress",
+        sub_cat_id: 14
+        },
+         {
+        sub_cat_name: "red dress",
+        sub_cat_id: 15
+        }
+    }
+} 
